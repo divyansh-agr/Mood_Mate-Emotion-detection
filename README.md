@@ -1,10 +1,10 @@
-# Emotion Detection
+# Mood_Mate - Emotion Detection
 
 ![Language](https://img.shields.io/badge/language-Jupyter%20Notebook%20%26%20Python-brightgreen) 
 
 ## Overview
 
-**Emotion Detection** is a project aimed at identifying and analyzing human emotions from various data sources using machine learning and deep learning techniques. The core of the repository is implemented in **Jupyter Notebook** (75.4%) and **Python** (24.6%), making it interactive and easy to extend for research or production use.
+**Mood_Mate (Emotion Detection)** is a project aimed at identifying and analyzing human emotions from various data sources using machine learning and deep learning techniques. The core of the repository is implemented in **Jupyter Notebook and Python**, making it interactive and easy to extend for research or production use.
 
 live on :- https://emotion-detector-moodmate.streamlit.app/
 
